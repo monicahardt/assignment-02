@@ -13,7 +13,5 @@ public class StudentTests
         var studentToString =  student.ToString();
 
         Assert.Equal("Id: 1 GivenName: Monica SurName: Hardt Status: Dropout StartDate: 2022-09-16 EndDate: 2022-09-18 GraduationDate: 2022-09-19", studentToString);
-
-
     }
 }
