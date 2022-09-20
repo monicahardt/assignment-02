@@ -52,11 +52,13 @@ using System.Text.RegularExpressions;
         //  Console.WriteLine(item);
         //  }
 
-        string s = "hej med jer vi programmere C# opgave 2";
+        /*string s = "hej med jer vi programmere C# opgave 2";
          string[] result = Regex.Split(s, @"\P{L}+");
         
         foreach (var item in result){
             Console.WriteLine(item);
-        }
+        }*/
+
+        Console.WriteLine(int.Parse(" 0042"));
     
 
